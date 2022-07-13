@@ -1,0 +1,15 @@
+${AnsiColor.BRIGHT_GREEN} ${AnsiBackground.BLACK}
+
+888                             888        .d8888b.                            d8b                                  888       888        d8888 
+888                             888       d88P  Y88b                           Y8P                                  888   o   888       d88888 
+888                             888       Y88b.                                                                     888  d8b  888      d88P888 
+888       8888b.  88888b.   .d88888        "Y888b.    .d88b.  888d888 888  888 888  .d8888b  .d88b.  .d8888b        888 d888b 888     d88P 888 
+888          "88b 888 "88b d88" 888           "Y88b. d8P  Y8b 888P"   888  888 888 d88P"    d8P  Y8b 88K            888d88888b888    d88P  888 
+888      .d888888 888  888 888  888             "888 88888888 888     Y88  88P 888 888      88888888 "Y8888b.       88888P Y88888   d88P   888 
+888      888  888 888  888 Y88b 888       Y88b  d88P Y8b.     888      Y8bd8P  888 Y88b.    Y8b.          X88       8888P   Y8888  d8888888888 
+88888888 "Y888888 888  888  "Y88888        "Y8888P"   "Y8888  888       Y88P   888  "Y8888P  "Y8888   88888P'       888P     Y888 d88P     888                                                                                                                                                                                                                                                                                           
+
+${AnsiColor.BRIGHT_BLUE} ### Sumith Tomy ###
+${AnsiBackground.DEFAULT} ${AnsiColor.BRIGHT_GREEN} 
+Spring Boot ${spring-boot.version}
+${application.title} - ${application.formatted-version} ${AnsiBackground.DEFAULT} ${AnsiColor.DEFAULT}
